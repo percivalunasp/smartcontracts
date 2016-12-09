@@ -49,7 +49,14 @@ PART I - EDIT CODE ON LOCAL MACHINE
 
 * DO NOT CLONE https://github.com/plucena/smartcontracts/, CLONE YOUR FORK
 
-* Update SimpleSample -> SimpleSample[YourUser]
+* Update SimpleSample contract name 
+
+```
+    @Override
+  	public String getChaincodeID() {
+		  return "BancoSeuUsuario";
+	  }
+```
 
 * Implement Bank Taxes
 
