@@ -49,7 +49,7 @@ PART I - EDIT CODE ON LOCAL MACHINE
 
 * DO NOT CLONE https://github.com/plucena/smartcontracts/, CLONE YOUR FORK
 
-* Update SimpleSample contract name 
+* Update contract name on SimpleSample.java 
 
 ```
     @Override
@@ -58,9 +58,8 @@ PART I - EDIT CODE ON LOCAL MACHINE
 	  }
 ```
 
-* Implement Bank Taxes
+* Implement Bank Taxes on SimpleSample.java 
 
-* Update pom.xml
 
 * git add *
 
